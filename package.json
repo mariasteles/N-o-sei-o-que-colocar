@@ -1,0 +1,23 @@
+{
+  "name": "n-o-sei-o-que-colocar",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mariasteles/N-o-sei-o-que-colocar#readme",
+  "bugs": {
+    "url": "https://github.com/mariasteles/N-o-sei-o-que-colocar/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariasteles/N-o-sei-o-que-colocar.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
